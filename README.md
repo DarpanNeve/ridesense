@@ -41,7 +41,7 @@ This Flutter app allows users to input a location (city name, address, or coordi
 
 | Location Input Screen | Map Display Screen |
 | --------------------- | ------------------ |
-| ![Location Input](./image.jpeg) | ![Map Display](./image_1.jpeg) |
+| ![Location Input](./image_1.jpeg) | ![Map Display](./image.jpeg) |
 
 ## How to Run the App
 
@@ -60,5 +60,8 @@ This Flutter app allows users to input a location (city name, address, or coordi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/repo-name.git
-   cd repo-name
+   git clone https://github.com/DarpanNeve/ridesense
+   cd ridesense
+   flutter pub get
+   flutter run
+   
